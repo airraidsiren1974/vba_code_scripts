@@ -1,4 +1,4 @@
-'VBA Subroutine to automate the cration of a one-dimensional array
+'VBA Subroutine to automate the creation of a one-dimensional array - using a For next loop
 
 Sub OneDimensionArray()
 
